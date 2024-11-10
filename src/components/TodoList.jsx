@@ -55,7 +55,7 @@ export default () => {
         onClick={() => dispatch(clearTodos())}
         className="todo-app__button todo-app__button--clear"
       >
-        Clear All Tasks
+        Clear All
       </button>
 
       <ul className="todo-app__task-list">
