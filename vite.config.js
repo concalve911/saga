@@ -12,9 +12,4 @@ export default defineConfig({
     react(),
     Inspect(),
   ],
-  build: {
-    rollupOptions: {
-      external: ["redux-saga"],
-    },
-  },
 });
