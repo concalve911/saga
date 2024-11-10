@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://concalve911.github.io/counter-redux/",
+  "homepage": "https://concalve911.github.io/saga/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
