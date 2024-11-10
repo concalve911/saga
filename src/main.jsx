@@ -7,10 +7,10 @@ import App from "./App";
 import "./index.scss";
 
 ReactDOM.render(
-  <Provider store={store}>
-    <HashRouter>
+  <HashRouter>
+    <Provider store={store}>
       <App />
-    </HashRouter>
-  </Provider>,
+    </Provider>
+  </HashRouter>,
   document.getElementById("root")
 );
